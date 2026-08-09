@@ -80,7 +80,7 @@
 
 <br>
 
-### 🌦️ [WeatherNow](https://github.com/dlkara/skala-vue)
+### 🌦️ [skala-vue](https://github.com/dlkara/skala-vue)
 
 **Vue 3 기반 날씨 및 위치 정보 웹 애플리케이션**
 
