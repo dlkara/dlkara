@@ -17,52 +17,58 @@
 
 <br>
 
-## 💻 Featured Projects
+<h2>💻 Featured Projects</h2>
 
-### 🔮 [DreamLens](https://github.com/dlkara/DreamLens)
-
-AI 기반 꿈 해몽 및 기록 서비스  
-`Python` `Django` `MySQL` `OpenAI API` `FAISS`
-
-### 👕 [WEARUP](https://github.com/dlkara/WEARUP)
-
-Spring Boot 기반 패션 커뮤니티 및 관리자 서비스  
-`Java` `Spring Boot` `Spring Security` `MySQL` `AWS`
-
-### 🌦️ [WeatherNow](https://github.com/dlkara/skala-vue)
-
-현재 위치와 검색 지역을 기반으로 날씨와 지도 정보를 제공하는 SPA  
-`Vue 3` `Pinia` `Axios` `Leaflet` `Vercel`
-
-### 🌍 [Guess The Country](https://github.com/dlkara/Guess-The-Country)
-
-외부 API와 위치 데이터를 활용한 국가 추측 웹 게임  
-`JavaScript` `jQuery` `REST API` `Vercel Functions`
-
-<br>
-
-## 🔐 Security Experience
-
-**ISMS-P Mock Consulting**
-
-- 임시 접근 권한 프로세스의 보안 위험 식별
-- 현업 담당자 인터뷰 및 개선 우선순위 검토
-- 모의 컨설팅 결과 보고 및 발표
-
-<br>
-
-## 🎓 Education
-
-**융합보안공학과** · GPA `3.99`
-
-<br>
-
-## 📜 Certifications
-
-`정보처리기사` `SQLD` `Microsoft SC-900` `정보보안기사 필기 합격`
-
-<br>
-
-## 📫 Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-dlkara-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dlkara)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔮 <a href="https://github.com/dlkara/DreamLens">DreamLens</a></h3>
+      <p>AI 기반 꿈 해몽 및 기록 서비스</p>
+      <p>
+        <code>Python</code>
+        <code>Django</code>
+        <code>MySQL</code>
+        <code>OpenAI API</code>
+        <code>FAISS</code>
+        <br/><br/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👕 <a href="https://github.com/dlkara/WEARUP">WEARUP</a></h3>
+      <p>Spring Boot 기반 패션 커뮤니티 및 관리자 서비스</p>
+      <p>
+        <code>Java</code>
+        <code>Spring Boot</code>
+        <code>Spring Security</code>
+        <code>MySQL</code>
+        <code>AWS</code>
+        <br/><br/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌦️ <a href="https://github.com/dlkara/skala-vue">WeatherNow</a></h3>
+      <p>현재 위치와 검색 지역 기반 날씨·지도 SPA</p>
+      <p>
+        <code>Vue 3</code>
+        <code>Pinia</code>
+        <code>Axios</code>
+        <code>Leaflet</code>
+        <code>Vercel</code>
+        <br/><br/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 <a href="https://github.com/dlkara/Guess-The-Country">Guess The Country</a></h3>
+      <p>외부 API와 위치 데이터를 활용한 국가 추측 웹 게임</p>
+      <p>
+        <code>JavaScript</code>
+        <code>jQuery</code>
+        <code>REST API</code>
+        <code>Vercel Functions</code>
+        <br/><br/>
+      </p>
+    </td>
+  </tr>
+</table>
