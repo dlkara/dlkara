@@ -1,16 +1,14 @@
 # Hi, I'm Hyunjung Lee 👋
 
-**Backend Developer with a Security Perspective**
-
 융합보안공학을 전공하고 있으며,  
-백엔드 개발과 정보보안을 중심으로 공부하고 있습니다.
+**Backend Development와 Information Security**를 중심으로 공부하고 있습니다.
 
 보안 관점에서 시스템을 이해하고, 안정적인 서비스를 구현하는 개발자를 목표로 하고 있습니다.
 
 ## What I Focus On
 
 - Backend Development
-- Authentication, Authorization & Application Security
+- Authentication & Authorization
 - AI-Assisted Development
 
 ## 🛠 Tech Stack
@@ -25,38 +23,23 @@
 
 ### 🔮 [DreamLens](https://github.com/dlkara/DreamLens)
 
-AI 기반 꿈 해몽·기록·분석 웹 서비스
+AI 기반 꿈 해몽·기록·분석 웹 서비스  
+`Django` `OpenAI API` `FAISS` `MySQL`
 
-`Python` `Django` `MySQL` `OpenAI API` `FAISS`
-
-LLM과 벡터 검색을 결합해 꿈 해몽을 제공하고,  
-사용자의 꿈 기록을 월별 리포트로 분석하는 Django 기반 팀 프로젝트입니다.
-
-**My Role**
-- 서비스 흐름 및 스토리보드 기획
-- 꿈 조합기 LLM 로직 및 페이지 구현
-- 월별 분석 리포트 구현
-- 공통 헤더 구현
+- 꿈 조합기 LLM 기능 및 월별 리포트 구현
+- 서비스 흐름·스토리보드 작성
 - 배포·일정·Git·문서 관리
 
 ---
 
 ### 👕 [WEARUP](https://github.com/dlkara/WEARUP)
 
-Spring Boot 기반 의류 구독·렌탈 및 관리자 서비스
+Spring Boot 기반 의류 구독·렌탈 웹 서비스  
+`Spring Boot` `Spring Security` `MySQL` `AWS`
 
-`Java` `Spring Boot` `Spring Security` `MySQL` `AWS`
-
-사용자·브랜드·관리자 역할을 분리한 의류 렌탈 서비스로,  
-커뮤니티와 관리자 기능, 접근 제어 및 AWS 배포를 포함한 팀 프로젝트입니다.
-
-**My Role**
-- 게시글·첨부파일·댓글 CRUD 구현
+- 피드 게시글·첨부파일·댓글 CRUD 구현
 - 관리자 매출·회원 관리 기능 구현
-- 권한 기반 접근 제어
-- 다음 주소 검색 API 연동
-- AWS EC2 · RDS 배포 및 배포 자동화
-- GitHub·프로젝트 문서 관리
+- 권한별 접근 제어 및 AWS EC2·RDS 배포
 
 ---
 
