@@ -5,8 +5,6 @@
 
 보안 관점에서 시스템을 이해하고, 안정적인 백엔드 서비스를 구현하는 개발자를 목표로 하고 있습니다.
 
-<br>
-
 ## 🛠 Tech Stack
 
 | Languages | Frameworks |
@@ -15,48 +13,43 @@
 | **Database & AI** | **Infra & Tools** |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
-<br>
-
-<h2>💻 Featured Projects</h2>
+## 💻 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🔮 <a href="https://github.com/dlkara/DreamLens">DreamLens</a></h3>
-      <p>AI 기반 꿈 해몽 및 기록 서비스</p>
+      <p>AI 기반 꿈 해몽·기록·분석 웹 서비스</p>
       <p>
         <code>Python</code>
         <code>Django</code>
         <code>MySQL</code>
         <code>OpenAI API</code>
         <code>FAISS</code>
-        <br/><br/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>👕 <a href="https://github.com/dlkara/WEARUP">WEARUP</a></h3>
-      <p>Spring Boot 기반 패션 커뮤니티 및 관리자 서비스</p>
+      <p>Spring Boot 기반 의류 구독·렌탈 및 관리자 서비스</p>
       <p>
         <code>Java</code>
         <code>Spring Boot</code>
         <code>Spring Security</code>
         <code>MySQL</code>
         <code>AWS</code>
-        <br/><br/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌦️ <a href="https://github.com/dlkara/skala-vue">WeatherNow</a></h3>
-      <p>현재 위치와 검색 지역 기반 날씨·지도 SPA</p>
+      <h3>🌦️ <a href="https://github.com/dlkara/weather-now">WeatherNow</a></h3>
+      <p>현재 위치와 검색 지역 기반 날씨·지도 정보 제공 SPA</p>
       <p>
         <code>Vue 3</code>
         <code>Pinia</code>
         <code>Axios</code>
         <code>Leaflet</code>
         <code>Vercel</code>
-        <br/><br/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -67,7 +60,6 @@
         <code>jQuery</code>
         <code>REST API</code>
         <code>Vercel Functions</code>
-        <br/><br/>
       </p>
     </td>
   </tr>
